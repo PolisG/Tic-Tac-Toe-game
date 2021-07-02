@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-game
- Online tic tac toe game with login form
+ This is an online tic tac toe game in php using AJAX calls and jQuery. Also added, SQL database and login/signup/logout forms.
